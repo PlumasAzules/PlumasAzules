@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming (that's obvious) mostly in Js. 
 - 🌱 I’m currently learning Java and python
 - Not very professional but not bad neither
-- I would like to do a good code to pay school...
 
 <!---
 PlumasAzules/PlumasAzules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
